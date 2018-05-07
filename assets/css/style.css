@@ -1,0 +1,15 @@
+.jumbotron{
+    text-align: center;
+    color: white;
+    text-shadow: 10px black;
+    background-image: url(../images/Star-Wars.jpg)
+}
+
+body{
+    background-image: url(../images/stars.jpg)
+}
+
+.form-check{
+    text-align: center;
+    color: white;
+}
